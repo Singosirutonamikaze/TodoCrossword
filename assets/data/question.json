@@ -1,0 +1,285 @@
+{
+    "questions": [
+      {
+        "question": "Premier ancêtre connu des ordinateurs, utilisé pour des calculs astronomiques",
+        "answer": "Machine d'Anticythère"
+      },
+      {
+        "question": "Inventeur de la machine à calculer appelée Pascaline",
+        "answer": "Blaise Pascal"
+      },
+      {
+        "question": "Mathématicien et philosophe ayant conçu une machine capable de multiplier et diviser",
+        "answer": "Gottfried Wilhelm Leibniz"
+      },
+      {
+        "question": "Nom de l'ordinateur conçu par Atanasoff et Berry",
+        "answer": "ABC (Atanasoff-Berry Computer)"
+      },
+      {
+        "question": "Langage de programmation conçu par Ada Lovelace",
+        "answer": "Langage Ada"
+      },
+      {
+        "question": "Invention qui automatise le tissage des étoffes grâce à des cartes perforées",
+        "answer": "Métier à tisser de Jacquard"
+      },
+      {
+        "question": "Créateur du concept de machine universelle et théoricien du calculabilité",
+        "answer": "Alan Turing"
+      },
+      {
+        "question": "Nom de la machine créée pour casser le code de la machine Lorenz",
+        "answer": "Colossus"
+      },
+      {
+        "question": "Entreprise ayant développé le premier ordinateur électronique commercialisable",
+        "answer": "IBM"
+      },
+      {
+        "question": "Surnom donné au premier bug informatique documenté",
+        "answer": "Bug"
+      },
+      {
+        "question": "Auteur de *Modern Operating Systems*",
+        "answer": "Andrew Tanenbaum"
+      },
+      {
+        "question": "Type d'algorithme utilisé pour gérer les pages mémoires dans les systèmes",
+        "answer": "Algorithme de gestion de mémoire virtuelle"
+      },
+      {
+        "question": "Concept d’organisation en couches d’un système d’exploitation",
+        "answer": "Architecture en couches"
+      },
+      {
+        "question": "Nom du premier système de fichiers introduit par UNIX",
+        "answer": "UFS (Unix File System)"
+      },
+      {
+        "question": "Technique permettant d’utiliser une mémoire supplémentaire sur un disque dur",
+        "answer": "Swap"
+      },
+      {
+        "question": "Nom des appareils électroniques permettant d'accéder à un système distant",
+        "answer": "Périphériques d'entrée"
+      },
+      {
+        "question": "Système d’exploitation développé par Linus Torvalds",
+        "answer": "Linux"
+      },
+      {
+        "question": "Nom de l’approche de gestion mémoire combinant segmentation et pagination",
+        "answer": "Mémoire virtuelle paginée"
+      },
+      {
+        "question": "Structure permettant de regrouper plusieurs fichiers dans un système",
+        "answer": "Répertoire"
+      },
+      {
+        "question": "Nom donné aux systèmes d’exploitation embarqués dans des appareils comme les téléphones",
+        "answer": "Systèmes d'exploitation mobiles"
+      },
+      {
+        "question": "Créateur du modèle d’architecture d’ordinateur utilisée aujourd’hui",
+        "answer": "John von Neumann"
+      },
+      {
+        "question": "Inventeur du transistor",
+        "answer": "John Bardeen, William Shockley, Walter Brattain"
+      },
+      {
+        "question": "Personnage ayant introduit le terme \"bug\" en informatique",
+        "answer": "Grace Hopper"
+      },
+      {
+        "question": "Célèbre pour son implication dans le développement du langage C",
+        "answer": "Dennis Ritchie"
+      },
+      {
+        "question": "Nom du mathématicien français ayant créé une machine à multiplier",
+        "answer": "Blaise Pascal"
+      },
+      {
+        "question": "Fondateur d’Apple Inc.",
+        "answer": "Steve Jobs"
+      },
+      {
+        "question": "Célèbre femme mathématicienne ayant travaillé avec Charles Babbage",
+        "answer": "Ada Lovelace"
+      },
+      {
+        "question": "Créateur de la machine Harvard Mark I",
+        "answer": "Howard Aiken"
+      },
+      {
+        "question": "Nom du père de l'intelligence artificielle moderne",
+        "answer": "Alan Turing"
+      },
+      {
+        "question": "Personne ayant proposé le mot \"ordinateur\" en français",
+        "answer": "Jacques Perret"
+      },
+      {
+        "question": "Nom du premier compilateur, conçu par Grace Hopper",
+        "answer": "A-0 System"
+      },
+      {
+        "question": "Invention utilisée pour calculer les éphémérides, inventée par Wilhelm Schickard",
+        "answer": "Machine à calculer"
+      },
+      {
+        "question": "Machine électromécanique construite pour le recensement américain de 1890",
+        "answer": "Machine à cartes perforées d'Hollerith"
+      },
+      {
+        "question": "Système de chiffrement allemand décodé grâce à Colossus",
+        "answer": "Lorenz cipher"
+      },
+      {
+        "question": "Machine utilisant des tubes à vide pour réaliser des calculs numériques",
+        "answer": "ENIAC"
+      },
+      {
+        "question": "Nom donné à un processeur ayant plusieurs cœurs",
+        "answer": "Processeur multicœur"
+      },
+      {
+        "question": "Langage de programmation inventé en 1957 et utilisé pour les calculs scientifiques",
+        "answer": "Fortran"
+      },
+      {
+        "question": "Nom de l’algorithme permettant de gérer plusieurs processus dans un OS",
+        "answer": "Algorithme de planification"
+      },
+      {
+        "question": "Technique utilisée pour exécuter plusieurs programmes simultanément",
+        "answer": "Multiprogrammation"
+      },
+      {
+        "question": "Nom du dispositif permettant de stocker les données sur bande magnétique",
+        "answer": "Disque dur"
+      },
+      {
+        "question": "Organisation qui standardise l’architecture des ordinateurs modernes",
+        "answer": "IEEE"
+      },
+      {
+        "question": "Élément essentiel permettant de convertir les signaux numériques en instructions",
+        "answer": "Processeur"
+      },
+      {
+        "question": "Premier système d’exploitation commercial pour ordinateurs personnels",
+        "answer": "MS-DOS"
+      },
+      {
+        "question": "Nom de la technique permettant de traduire des adresses virtuelles en physiques",
+        "answer": "Pagination"
+      },
+      {
+        "question": "Type de fichiers spécifiques aux disques optiques",
+        "answer": "ISO"
+      },
+      {
+        "question": "Langage de programmation ayant introduit les structures de haut niveau",
+        "answer": "ALGOL"
+      },
+      {
+        "question": "Invention remplaçant les tubes à vide dans les ordinateurs",
+        "answer": "Transistor"
+      },
+      {
+        "question": "Nom donné aux bugs créés intentionnellement pour tester des logiciels",
+        "answer": "Test de bogue"
+      },
+      {
+        "question": "Format de fichier utilisé pour stocker les programmes exécutable sous UNIX",
+        "answer": "EXE"
+      },
+      {
+        "question": "Nom du système de fichiers moderne utilisé dans les disques durs",
+        "answer": "NTFS"
+      },
+      {
+        "question": "Entreprise ayant introduit le premier ordinateur personnel en 1981",
+        "answer": "IBM"
+      },
+      {
+        "question": "Fabricant ayant développé la série d’ordinateurs PowerPC",
+        "answer": "Motorola"
+      },
+      {
+        "question": "Nom du premier microprocesseur, lancé par Intel",
+        "answer": "4004"
+      },
+      {
+        "question": "Entreprise qui a créé le célèbre langage Java",
+        "answer": "Sun Microsystems"
+      },
+      {
+        "question": "Nom de l'ordinateur utilisé pour la mission Apollo",
+        "answer": "Apollo Guidance Computer"
+      },
+      {
+        "question": "Marque associée au système d’exploitation MS-DOS",
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Première entreprise à commercialiser un logiciel de tableur",
+        "answer": "VisiCalc"
+      },
+      {
+        "question": "Lieu où les premières machines Turing ont été développées",
+        "answer": "Bletchley Park"
+      },
+      {
+        "question": "Nom du processeur révolutionnaire utilisé dans le Macintosh en 1984",
+        "answer": "Motorola 68000"
+      },
+      {
+        "question": "Entreprise ayant conçu l'interface utilisateur graphique X Window",
+        "answer": "MIT"
+      },
+      {
+        "question": "Année où Internet est officiellement devenu accessible au public",
+        "answer": "1991"
+      },
+      {
+        "question": "Premier réseau informatique créé par le gouvernement américain",
+        "answer": "ARPANET"
+      },
+      {
+        "question": "Nom du projet ayant conduit à la création du système UNIX",
+        "answer": "Project Multics"
+      },
+      {
+        "question": "Conférence annuelle pour les développeurs organisée par Apple",
+        "answer": "WWDC"
+      },
+      {
+        "question": "Événement marquant où IBM a introduit le PC",
+        "answer": "1981"
+      },
+      {
+        "question": "Nom de la puce ayant lancé la série ARM",
+        "answer": "ARM1"
+      },
+      {
+        "question": "Nom du protocole utilisé pour les transferts de fichiers dans les années 1980",
+        "answer": "FTP"
+      },
+      {
+        "question": "Nom donné à la première génération de disques durs",
+        "answer": "Hard Disk Drive (HDD)"
+      },
+      {
+        "question": "Ville où se trouve la Silicon Valley",
+        "answer": "San Jose"
+      },
+      {
+        "question": "Société ayant révolutionné la recherche sur Internet en 1998",
+        "answer": "Google"
+      }
+    ]
+  }
+  
